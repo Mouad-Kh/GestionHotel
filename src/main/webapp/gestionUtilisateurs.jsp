@@ -9,7 +9,7 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 </head>
-<body style="background-image: url('images/user.jpg');background-size: cover">
+<body style="background-image: url('images/hot.jpg');background-size: cover">
 
 	<%
 	UserService uss = new UserService();
